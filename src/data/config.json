@@ -1,0 +1,9 @@
+{
+  "title": "My Literature Review on AI Music Generation",
+  "authors": ["Tianrui Bai"],
+  "description": "An interactive literature browser for my MSc dissertation topic on deep learning methods in symbolic music generation.",
+  "keywords": ["AI", "Music", "Deep Learning", "Symbolic Music", "Generation"],
+  "sort": "year",
+  "filter": true,
+  "style": "default"
+}
